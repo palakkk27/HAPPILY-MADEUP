@@ -1,0 +1,98 @@
+.div-link{
+	padding-top: 8px;
+	display: flex;
+	color: black;
+}
+.div-link b{
+	color: black;
+}
+
+.div-link b:hover{
+	color: #fc2779;
+}
+
+.second-nav{
+	border-top: 0.5px solid #ebebeb;
+}
+
+.pic{
+	padding: 0px;
+}
+
+.pic img{
+	max-width: 100%;
+	margin: 0px;
+}
+
+
+.ima img{
+	width: 274px;
+}
+
+.top img{
+	width: 274px;
+}
+
+.ff img{
+	max-width: 30%;
+	margin: auto;
+
+}
+
+.ff{
+	text-align: center;
+	margin: auto;
+}
+
+.gg img{
+	max-width: 30%;
+	text-align: center;
+	margin: auto;
+}
+
+.hh img{
+	max-width: 30%;
+	text-align: center;
+}
+
+.abc {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.palak{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.sale{
+	padding: 0px;
+	text-align: center;
+}
+.day{
+	padding: 0px;
+	text-align: center;
+}
+
+.cou{
+	text-align: center;
+}
+
+.csale{
+	
+	text-align: center;}
+.footer{
+	color: darkgrey;
+}
+
+.font{
+	color: white;
+	font-weight: normal;
+	font-size: 15px;
+}
+
+.beauty{
+	text-align: center;
+}
